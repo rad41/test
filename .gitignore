@@ -41,3 +41,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/unity/UnityProject/Library
+/unity/UnityProject/Temp
+/unity/UnityProject/*.pidb
+/unity/UnityProject/*.csproj
+/unity/UnityProject/*.sln
+/unity/UnityProject/*.userprefs
+
